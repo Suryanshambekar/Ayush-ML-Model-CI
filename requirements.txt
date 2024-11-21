@@ -1,0 +1,4 @@
+joblib
+numpy
+streamlit
+scikit-learn  # If you're using this for model training
